@@ -17,7 +17,7 @@ The model classifies reviews as **positive** or **negative**, providing insights
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies used
 - **Programming Language**: Python  
 - **Libraries**:  
   - Pandas, NumPy  
